@@ -1,15 +1,6 @@
-# Realiazar el DOO y la implementación (POO) del juego de 3 en raya
 
-- DOO
-  - Diagrama de casos de uso
-  - Diagrama de clases
-Nota: Puede utilizar cualquier herramienta y cargar mediante una imagen
-- POO
-  - Crear una rama `gquelali/practicas/practica-3-en-raya`
-  - Crear todas las clases de acuerdo al DOO en consola
+Juegos 3 en raya
 
-Ejemplo de carga de imagenes
+![diagrama de clases](./img/diagrama%20de%20clases.png)
 
-![Enunciado](./img/enunciado.png)
-
-![Participantes de hoy](./img/participantes.png)
+![diagrama de casos de uso](./img/diagrama%20de%20casos%20de%20uso.png)

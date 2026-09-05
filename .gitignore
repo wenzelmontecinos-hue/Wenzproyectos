@@ -1,2 +1,6 @@
 *.class
+<<<<<<< HEAD
 .DS_Store
+=======
+.vscode/
+>>>>>>> wmontecinos-practicas-practica-3-en-raya
