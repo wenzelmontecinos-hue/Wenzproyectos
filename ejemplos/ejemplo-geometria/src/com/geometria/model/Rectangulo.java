@@ -7,6 +7,9 @@ public class Rectangulo extends FiguraGeometrica {
     private double base;
     private double altura;
 
+    // Constructor vacío (Obligatorio para que Jackson pueda deserializar)
+    public Rectangulo() {}
+
     public Rectangulo(double base, double altura) {
         super("Rectángulo");
         this.base = base;

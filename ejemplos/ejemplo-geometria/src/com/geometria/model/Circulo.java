@@ -6,6 +6,9 @@ package com.geometria.model;
 public class Circulo extends FiguraGeometrica {
     private double radio;
 
+    // Constructor vacío (Obligatorio para que Jackson pueda deserializar)
+    public Circulo() {}
+
     public Circulo(double radio) {
         super("Círculo");
         this.radio = radio;
